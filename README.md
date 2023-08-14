@@ -1,10 +1,5 @@
 <a name="readme-top"></a>
 
-[![Forks][https://img.shields.io/github/forks/neealdon3/Bookmarklets.svg?style=for-the-badge]][https://github.com/neealdon3/Bookmarklets/forks]
-[![Stargazers][https://img.shields.io/github/stars/neealdon3/Bookmarklets.svg?style=for-the-badge]][https://github.com/neealdon3/Bookmarklets/stargazers]
-[![Issues][https://img.shields.io/github/issues/neealdon3/Bookmarklets.svg?style=for-the-badge]][https://github.com/neealdon3/Bookmarklets/issues]
-
-
 [![Forks][img.shields.io/github/forks/neealdon3/Bookmarklets.svg?style=for-the-badge]][github.com/neealdon3/Bookmarklets/forks]
 [![Stargazers][img.shields.io/github/stars/neealdon3/Bookmarklets.svg?style=for-the-badge]][github.com/neealdon3/Bookmarklets/issues]
 [![Issues][img.shields.io/github/issues/neealdon3/Bookmarklets.svg?style=for-the-badge]][issues-url]
