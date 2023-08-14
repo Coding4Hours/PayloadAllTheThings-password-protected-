@@ -4,8 +4,6 @@
 [![Stargazers][https://img.shields.io/github/stars/neealdon3/Bookmarklets.svg?style=for-the-badge]][https://github.com/neealdon3/Bookmarklets/stargazers]
 [![Issues][https://img.shields.io/github/issues/neealdon3/Bookmarklets.svg?style=for-the-badge]][https://github.com/neealdon3/Bookmarklets/issues]
 [![MIT License][https://img.shields.io/github/license/neealdon3/Bookmarklets.svg?style=for-the-badge][https://github.com/neealdon3/Bookmarklets/blob/master/LICENSE.txt]
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
 
 
 <!-- PROJECT LOGO -->
