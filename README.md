@@ -1,10 +1,9 @@
 <a name="readme-top"></a>
 
-[![Forks][img.shields.io/github/forks/neealdon3/Bookmarklets.svg?style=for-the-badge]][github.com/neealdon3/Bookmarklets/forks]
-[![Stargazers][img.shields.io/github/stars/neealdon3/Bookmarklets.svg?style=for-the-badge]][github.com/neealdon3/Bookmarklets/issues]
-[![Issues][img.shields.io/github/issues/neealdon3/Bookmarklets.svg?style=for-the-badge]][issues-url]
-[![MIT License][img.shields.io/github/license/neealdon3/Bookmarklets.svg?style=for-the-badge]]][github.com/neealdon3/Bookmarklets/blob/master/LICENSE.txt]
-
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
 
 
 <!-- PROJECT LOGO -->
