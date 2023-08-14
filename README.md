@@ -59,8 +59,8 @@
 
 
 ### Built With
-
-* [![Next](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)](https://devdocs.io/javascript/)
+ 
+<a href="https://devdocs.io/javascript/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="js" width="40" height="40"/> </a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
