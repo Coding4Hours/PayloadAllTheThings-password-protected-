@@ -1,17 +1,12 @@
 <a name="readme-top"></a>
 
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[![Forks][https://img.shields.io/github/forks/neealdon3/Bookmarklets.svg?style=for-the-badge]][https://github.com/neealdon3/Bookmarklets/forks]
+[![Stargazers][https://img.shields.io/github/stars/neealdon3/Bookmarklets.svg?style=for-the-badge]][https://github.com/neealdon3/Bookmarklets/stargazers]
+[![Issues][https://img.shields.io/github/issues/neealdon3/Bookmarklets.svg?style=for-the-badge]][https://github.com/neealdon3/Bookmarklets/issues]
+[![MIT License][https://img.shields.io/github/license/neealdon3/Bookmarklets.svg?style=for-the-badge]][[https://github.com/neealdon3/Bookmarklets/blob/master/LICENSE.txt]
+
+[![Forks](https://img.shields.io/github/forks/neealdon3/Bookmarklets.svg?style=for-the-badge)](https://www.flickr.com/photos/beaurogers/31833779864/in/photolist-Qv3rFw-34mt9F-a9Cmfy-5Ha3Zi-9msKdv-o3hgjr-hWpUte-4WMsJ1-KUQ8N-deshUb-vssBD-6CQci6-8AFCiD-zsJWT-nNfsgB-dPDwZJ-bn9JGn-5HtSXY-6CUhAL-a4UTXB-ugPum-KUPSo-fBLNm-6CUmpy-4WMsc9-8a7D3T-83KJev-6CQ2bK-nNusHJ-a78rQH-nw3NvT-7aq2qf-8wwBso-3nNceh-ugSKP-4mh4kh-bbeeqH-a7biME-q3PtTf-brFpgb-cg38zw-bXMZc-nJPELD-f58Lmo-bXMYG-bz8AAi-bxNtNT-bXMYi-bXMY6-bXMYv)
+
 
 
 <!-- PROJECT LOGO -->
