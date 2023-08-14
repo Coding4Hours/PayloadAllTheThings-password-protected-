@@ -184,15 +184,11 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-email  - blade_immovably193@simplelogin.com
+Email  - blade_immovably193@simplelogin.com
 
 Project Link: [https://github.com/neealdon3/Bookmarklets](https://github.com/neealdon3/Bookmarklets)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
