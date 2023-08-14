@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-[![Forks][https://img.shields.io/github/forks/neealdon3/Bookmarklets.svg?style=for-the-badge]][https://github.com/neealdon3/Bookmarklets/forks]
+[![Forks][https://img.shields.io/github/forks/neealdon3/Bookmarklets.svg?style=for-the-badge][https://github.com/neealdon3/Bookmarklets/forks]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
