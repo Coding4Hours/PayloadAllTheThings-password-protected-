@@ -58,7 +58,7 @@
 
 
 
-### Built With
+<h3 align="center">Built With</h3> 
  
 <a href="https://devdocs.io/javascript/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="js" width="40" height="40"/> </a>
 
