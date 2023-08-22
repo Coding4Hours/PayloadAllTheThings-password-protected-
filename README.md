@@ -16,38 +16,15 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Bookmarklets</h3>
+<h3 align="center">Payloads All The Things(password protected)</h3>
 
   <p align="center">
-    This is a list of the best bookmarklet menus.
-    <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
-    <br />
-    <a href="https://github.com/neealdon3/Bookmarklets/issues">Report Bug</a>
+    This is a list of the best payloads.
+    <a href="https://github.com/neealdon3/PayloadAllTheThings-password-protected-/issues">Report Bug</a>
     ·
-    <a href="https://github.com/neealdon3/Bookmarklets/issues">Request Feature</a>
+    <a href="https://github.com/neealdon3/PayloadAllTheThings-password-protected-/issues">Request Feature</a>
   </p>
 </div>
-
-
-<h3 align="center">Built With</h3> 
-
- <center>
-<a href="https://devdocs.io/javascript/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="js" width="40" height="40" align="left"></img>  </a>
-</center>
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-### Installation
-
-1. Highlight the code
-2. Drag it to the left
-   Notice: if the bookmarks bar isn't showing, press ctrl-shift-b
-4. Then on to the bookmarks bar
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -81,12 +58,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Email  - blade_immovably193@simplelogin.com
 
-Project Link: [https://github.com/neealdon3/Bookmarklets](https://github.com/neealdon3/Bookmarklets)
+Project Link: [https://github.com/neealdon3/PayloadAllTheThings-password-protected-](https://github.com/neealdon3/PayloadAllTheThings-password-protected-)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
